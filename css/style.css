@@ -1,0 +1,105 @@
+ /*base CSS*/
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+ /* Header Area Start
+  =========================*/
+.header_area {
+    background: #F4F4F4;
+    padding: 5% 0;
+}
+/* Content_area Area Start Start
+  =========================*/
+.content_area {
+        padding: 3% 0;
+    }
+.content-right h3 {
+        margin-top: 0;
+    }
+.styleh3 {
+  color: #662d91;
+  font-size: 36px;
+}
+.content-left span {
+    font-weight: 700;
+}
+.content-left li {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+form {
+    max-width:375px;
+}
+form input {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 7px 14px;
+  width: 100%;
+}
+form input._btn {
+    width:30%;
+    color:#fff;
+    background:#1da69d;
+    border: transparent;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+form input._btn:hover {
+    background:#0A938A;
+}
+
+/*Service Area Start
+=========================*/
+.service_area {
+    background: #16ACDF;
+    padding: 5% 0;
+}
+.collapse_ h2 {
+    color:#fff;
+    margin-bottom: 5%;
+}
+a:focus {
+    outline: none;
+}
+/*Testimonial Area Start
+=========================*/
+.testimonial_area {
+  padding: 5% 0 1%;
+}
+.testimonial_area blockquote {
+    border-left: transparent;
+}
+.testimonial_area .col-md-12 > h3 {
+  font-weight: 700;
+}
+blockquote p {
+  margin-top: 1%;
+}
+blockquote footer {
+    padding-top: 0;
+}
+blockquote footer cite {
+  color: #333;
+  font-weight: 700;  
+font-size: 18px;
+}
+blockquote .small, blockquote footer, blockquote small {
+  color: #333;
+  display: block;
+  font-size: 80%;
+  line-height: 1.42857;
+  font-weight: 700;
+}
+/*Footer Start
+=========================*/
+.footer_area {
+  background: #17243B none repeat scroll 0 0;
+  text-align:center;
+}
+footer {
+    color: #fff;
+    font-size: 16px;
+    padding: 2% 0;
+}
